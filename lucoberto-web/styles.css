@@ -1,0 +1,68 @@
+body{
+    background-color: #b688a1;
+}
+
+/* Buttons */
+.buttons{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: white;
+    padding: 10px;
+    border: 3px black solid;
+    border-radius: 15px;
+    box-shadow: 3px 4px 1px black;
+    width: 20vw;
+    display: block;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 20px;
+}
+
+a:hover{
+    box-shadow: 1px 1px 1px black;
+}
+
+/* Text info */
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    display: block;
+}
+
+#introduction{
+    text-align: justify;
+    width: 40vw;
+    margin-bottom: 40px;
+}
+
+#name{
+    font-size: 3vw;
+}
+
+/* Images */
+
+img{
+    border: solid;
+    border-radius: 100px;
+    width: 8vw;
+    height: 8vw;
+}
+    text-align: justify;
+    width: 40vw;
+    margin-bottom: 40px;
+}
+
+#name{
+    font-size: 2vw;
+}
+
+/* Images */
+
+img{
+    border: solid;
+    border-radius: 100px;
+    width: 7vw;
+    height: 7vw;
+}
