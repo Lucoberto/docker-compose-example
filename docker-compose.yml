@@ -3,6 +3,7 @@ version: '2'
 services:
   lucobertoweb:
     build: .
+    volumes:
+      - ./lucoberto-web/:/usr/share/nginx/html
     ports:
       - 9090:80
-      
